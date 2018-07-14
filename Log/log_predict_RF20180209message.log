@@ -1,0 +1,80 @@
+/home/ZH000005/ncu/tzyc/anaconda3/lib/python3.6/site-packages/sklearn/cross_validation.py:41: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+/home/ZH000005/ncu/tzyc/anaconda3/lib/python3.6/site-packages/sklearn/base.py:312: UserWarning: Trying to unpickle estimator DecisionTreeClassifier from version 0.19.1 when using version 0.19.0. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+/home/ZH000005/ncu/tzyc/anaconda3/lib/python3.6/site-packages/sklearn/base.py:312: UserWarning: Trying to unpickle estimator RandomForestClassifier from version 0.19.1 when using version 0.19.0. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+模型已经存在，可直接预测
+(5214, 111)
+预测E329EDA6-5838-47A6-BDB2-FDE5633C3E9C-23212
+ksyc
+E329EDA6-5838-47A6-BDB2-FDE5633C3E9C-23212!
+input:42
+                                            xlid
+xlid                                            
+00785E78-D2B6-4821-BFD8-5927B0D7FED9-70601     1
+00785E78-D2B6-4821-BFD8-5927B0D7FED9-70777     1
+0246758A-1512-4258-A46D-E99235228EB3-09916     2
+0246758A-1512-4258-A46D-E99235228EB3-75200     1
+0246758A-1512-4258-A46D-E99235228EB3-75289     1
+02C3D1FF-CEEE-43FD-852C-F11FDD25B309-65318     2
+042808B5-4A6A-4484-89B3-AE5A4E65714D-71982     1
+044B31C4-464B-46DD-BDB4-F490155F9E4A-31154     1
+044B31C4-464B-46DD-BDB4-F490155F9E4A-31214     2
+055CDD67-53ED-4546-A5B5-6D11D24F9630-13845     1
+055CDD67-53ED-4546-A5B5-6D11D24F9630-30816     2
+055CDD67-53ED-4546-A5B5-6D11D24F9630-31335     2
+05FCB120-247E-414A-A0FF-3497B50104DD-25891     1
+06588DC0-7A5C-4925-99BA-641B0A7DD336-50469     2
+06809ADB-BB90-4563-A68F-487F873473EC-51887     1
+06FB2BC7-0ED0-4743-A7A4-ED704C16EC39-19351     2
+08024518-26E2-4457-BA29-F5500142DC4B-26640     2
+08EB3F4B-B7BD-4F2C-8CD0-8ABFC806C78A-16450     1
+09DA6948-3D29-4928-A537-22C900218317-49189     2
+09DA6948-3D29-4928-A537-22C900218317-49311     2
+09DA6948-3D29-4928-A537-22C900218317-49459     1
+09DA6948-3D29-4928-A537-22C900218317-49611     1
+09DA6948-3D29-4928-A537-22C900218317-49695     1
+09DA6948-3D29-4928-A537-22C900218317-49718     1
+09DA6948-3D29-4928-A537-22C900218317-49743     1
+0A75040F-2D17-49B8-90F2-607438B86658-93457     2
+0AB12EE3-5C56-446A-8ABD-097FCA9311AF-37969     1
+0B37F190-5349-49D2-8D5A-A8496BA1FC1C-12295     2
+0B37F190-5349-49D2-8D5A-A8496BA1FC1C-45888     2
+0B37F190-5349-49D2-8D5A-A8496BA1FC1C-45901     1
+...                                          ...
+XGS211205NMBDY10kV0007                         1
+XGS211205NMBDY10kV0008                         1
+XGS211205NMBDY10kV0010                         1
+XGS211205SQBDY10kV0001                         1
+XGS211205SQBDY10kV0002                         1
+XGS211205SQBDY10kV0003                         1
+XGS211205SQBDY10kV0004                         1
+XGS211205SQBDY35kV0001                         1
+XGS211205SSBDY10kV0001                         1
+XGS211205SSBDY10kV0002                         1
+XGS211205SSBDY10kV0003                         1
+XGS211205SSBDY10kV0004                         1
+XGS211205SSBDY10kV0005                         1
+XGS211205SSBDY10kV0006                         1
+XGS211205SSBDY35kV0001                         2
+XGS211205SSBDY35kV0003                         2
+XGS211205TBBDY10kV0001                         1
+XGS211205TBBDY10kV0002                         1
+XGS211205TBBDY10kV0003                         1
+XGS211205TBBDY10kV0004                         1
+XGS211205TBBDY10kV0005                         1
+XGS211205TBBDY10kV0006                         1
+XGS211205TBBDY35kV0001                         2
+XGS2210204FMBDY35kV0001                        1
+XGS2210204LTBDY35kV0001                        2
+pms17                                          1
+pms3                                           1
+pms31                                          1
+pms33                                          2
+yhzx_6                                         1
+
+[4309 rows x 1 columns]
+zc
+E329EDA6-5838-47A6-BDB2-FDE5633C3E9C-23212预测成功!!
+modelrecord have exists

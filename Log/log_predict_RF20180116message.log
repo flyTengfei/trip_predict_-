@@ -1,0 +1,19 @@
+/home/ZH000005/ncu/tzyc/anaconda3/lib/python3.6/site-packages/sklearn/cross_validation.py:41: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+模型已经存在，可直接预测
+(5214, 111)
+预测1169yhzx
+Traceback (most recent call last):
+  File "/home/ZH000005/ncu/tzyc/code/src/tzyc_model_predict.py", line 36, in <module>
+    tmm.predictModel(tgl.input_dir,xlid)
+  File "/home/ZH000005/ncu/tzyc/code/src/tzyc_mutil_model.py", line 354, in predictModel
+    prediction=TZpredicts.predict_proba(input_data[input_.iloc[:,101]==xlid])
+  File "/home/ZH000005/ncu/tzyc/anaconda3/lib/python3.6/site-packages/sklearn/ensemble/forest.py", line 576, in predict_proba
+    X = self._validate_X_predict(X)
+  File "/home/ZH000005/ncu/tzyc/anaconda3/lib/python3.6/site-packages/sklearn/ensemble/forest.py", line 356, in _validate_X_predict
+    return self.estimators_[0]._validate_X_predict(X, check_input=True)
+  File "/home/ZH000005/ncu/tzyc/anaconda3/lib/python3.6/site-packages/sklearn/tree/tree.py", line 373, in _validate_X_predict
+    X = check_array(X, dtype=DTYPE, accept_sparse="csr")
+  File "/home/ZH000005/ncu/tzyc/anaconda3/lib/python3.6/site-packages/sklearn/utils/validation.py", line 431, in check_array
+    context))
+ValueError: Found array with 0 sample(s) (shape=(0, 7)) while a minimum of 1 is required.
